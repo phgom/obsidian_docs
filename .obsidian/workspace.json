@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "785e190f40d93a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8fb99b54257823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c601dd5622c91d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcac1c6faac7f11c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed654fafe465368a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec1abf92f1e83c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ba9f4ff1c843590",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e593d644f921b442",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f414adf27ffa24a",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f8c2967abeca12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e347cc33646f11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "밸런스.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b7d286a892fd33",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "밸런스.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eab4621adc3081ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "792b91d82a734260",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "밸런스.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3ec1abf92f1e83c8",
+  "lastOpenFiles": [
+    "리더의 생각.md",
+    "독서노트.md",
+    "밸런스.md"
+  ]
+}

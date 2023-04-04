@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "725f361778e95e6c",
+        "id": "06834ecb585dc96e",
         "type": "tabs",
         "children": [
           {
-            "id": "0555d853dbb87723",
+            "id": "8e8ad5081fb3556c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서노트.md",
+                "file": "독서노트/독서노트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16c8f2ad49ecb667",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Basic Operations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "독서노트.md",
+            "file": "Math/Basic Operations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "독서노트.md",
+            "file": "Math/Basic Operations.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +127,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "독서노트.md"
+            "file": "Math/Basic Operations.md"
           }
+        }
+      },
+      {
+        "id": "23bfad0efbf7a57d",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -131,8 +152,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0555d853dbb87723",
+  "active": "16c8f2ad49ecb667",
   "lastOpenFiles": [
-    "독서노트.md"
+    "독서노트/독서노트.md",
+    "Math/Basic Operations.md",
+    "Math",
+    "독서노트"
   ]
 }

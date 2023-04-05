@@ -11,8 +11,12 @@
             "id": "88c601dd5622c91d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "독서노트/독서노트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "밸런스.md",
+                "file": "독서노트/독서노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "밸런스.md",
+                "file": "독서노트/독서노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "밸런스.md"
+                "file": "독서노트/독서노트.md"
               }
             }
           }
@@ -129,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +147,8 @@
   },
   "active": "3ec1abf92f1e83c8",
   "lastOpenFiles": [
-    "리더의 생각.md",
-    "독서노트.md",
-    "밸런스.md"
+    "독서노트/밸런스.md",
+    "독서노트/리더의 생각.md",
+    "독서노트.md"
   ]
 }

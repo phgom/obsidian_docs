@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서노트/독서노트.md",
+                "file": "Math/Basic Operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2667dd1904c98733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/GoldSchmidt Division Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독서노트/독서노트.md",
+                "file": "Math/GoldSchmidt Division Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독서노트/독서노트.md",
+                "file": "Math/GoldSchmidt Division Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서노트/독서노트.md"
+                "file": "Math/GoldSchmidt Division Algorithm.md"
               }
             }
           }
@@ -147,6 +160,9 @@
   },
   "active": "3ec1abf92f1e83c8",
   "lastOpenFiles": [
+    "Math/Basic Operations.md",
+    "Math/GoldSchmidt Division Algorithm.md",
+    "독서노트/독서노트.md",
     "독서노트/밸런스.md",
     "독서노트/리더의 생각.md",
     "독서노트.md"

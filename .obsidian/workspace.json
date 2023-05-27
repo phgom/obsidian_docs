@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8fb99b54257823",
+        "id": "9ca5ff31cfd088f1",
         "type": "tabs",
         "children": [
           {
-            "id": "88c601dd5622c91d",
+            "id": "cb6191fa46d19e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,8 +128,17 @@
                 "file": "독서노트/독서노트.md"
               }
             }
+          },
+          {
+            "id": "0102c7ff5e933d8d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -137,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -145,10 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3ec1abf92f1e83c8",
+  "active": "cb6191fa46d19e15",
   "lastOpenFiles": [
-    "독서노트/밸런스.md",
+    "독서노트/독서노트.md",
     "독서노트/리더의 생각.md",
+    "독서노트/밸런스.md",
     "독서노트.md"
   ]
 }

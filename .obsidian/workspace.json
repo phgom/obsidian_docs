@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서노트/독서노트.md",
+                "file": "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5b006fbd6c305da2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "독서노트/독서노트.md",
+                "file": "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "독서노트/독서노트.md",
+                "file": "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "독서노트/독서노트.md"
+                "file": "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md"
               }
             }
           },
@@ -134,6 +142,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "062256dce8034ebf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -157,9 +173,14 @@
   },
   "active": "cb6191fa46d19e15",
   "lastOpenFiles": [
-    "독서노트/독서노트.md",
-    "독서노트/리더의 생각.md",
+    "Math/Basic Operations.md",
+    "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md",
     "독서노트/밸런스.md",
+    "독서노트/독서노트.md",
+    "불편한 편의점.md",
+    "미라클모닝.md",
+    "독서노트/미라클 모닝.md",
+    "독서노트/리더의 생각.md",
     "독서노트.md"
   ]
 }

@@ -68,9 +68,33 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "b2e8466715fd3cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제주도여행/비행기 타기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6685eb927b8167b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제주도여행/제주도 여행 종합.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-10-14 23.50.06.excalidraw.md",
+                "file": "제주도여행/제주도 여행 종합.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-10-14 23.50.06.excalidraw.md",
+                "file": "제주도여행/제주도 여행 종합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2023-10-14 23.50.06.excalidraw.md"
+                "file": "제주도여행/제주도 여행 종합.md"
               }
             }
           },
@@ -214,11 +238,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ec1abf92f1e83c8",
+  "active": "6685eb927b8167b1",
   "lastOpenFiles": [
-    "Pasted Image 20231015000817_735.png",
+    "conflict-files-obsidian-git.md",
+    "제주도여행/제주도 여행 종합.md",
+    "Pasted image 20231025002548.jpg",
+    "Pasted image 20231025002229.jpg",
+    "Pasted image 20231025002202.jpg",
+    "Pasted image 20231025002033.jpg",
+    "제주도여행/주소록.md",
+    "Pasted image 20231025001200.jpg",
+    "제주도여행/제주도 여행 준비.md",
+    "제주도여행/일정.md",
+    "Pasted image 20231025000257.jpg",
+    "Pasted image 20231025000122.jpg",
+    "Pasted image 20231024235625.jpg",
+    "Pasted image 20231024235117.jpg",
+    "Pasted image 20231024235054.jpg",
+    "제주도여행/비행기 타기.md",
+    "독서노트/독서노트.md",
+    "제주도여행",
+    "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md",
+    "독서노트/불편한 편의점.md",
+    "독서노트/부자아빠 가난한아빠.md",
+    "독서노트/미라클 모닝.md",
+    "Docker/commands.md",
+    "Docker",
     "Drawing 2023-10-14 23.50.06.excalidraw.md",
-    "Pasted Image 20231015000238_733.png",
     "무제 파일.md",
     "Clips",
     "나이트 메모 정리 요약.md",
@@ -227,7 +273,6 @@
     "무제 폴더",
     "Math/Basic Operations.md",
     "Math/GoldSchmidt Division Algorithm.md",
-    "독서노트/독서노트.md",
     "독서노트/밸런스.md",
     "독서노트/리더의 생각.md",
     "독서노트.md"

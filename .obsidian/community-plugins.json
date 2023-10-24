@@ -1,7 +1,13 @@
 [
+<<<<<<< HEAD
   "quick-latex",
   "obsidian-git",
   "obsidian-pandoc",
   "obsidian-icon-shortcodes",
   "obsidian-excalidraw-plugin"
+=======
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-icon-shortcodes"
+>>>>>>> origin/main
 ]

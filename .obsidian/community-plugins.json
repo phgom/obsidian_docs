@@ -1,4 +1,7 @@
 [
   "quick-latex",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc",
+  "obsidian-icon-shortcodes",
+  "obsidian-excalidraw-plugin"
 ]

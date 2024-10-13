@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/AMD NPU/무제 파일.md",
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/AMD NPU/무제 파일.md",
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/AMD NPU/무제 파일.md"
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md"
               }
             }
           }
@@ -197,9 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "792b91d82a734260",
+  "active": "ccc5046193690b78",
   "lastOpenFiles": [
     "Projects/AMD NPU/무제 파일.md",
+    "amd-ryzen-ai-300-competition-for-intel-and-qualcomm-copilot-laptops-2024-07-15-042460.webp",
     "무제 파일.md",
     "Excalidraw/AMD NPU 구조분석.excalidraw.md",
     "Projects/AMD NPU/AMD LINEUP.md",
@@ -216,7 +217,6 @@
     "제주도여행/Pasted image 20231025002033.jpg",
     "제주도여행/Pasted image 20231025001200.jpg",
     "제주도여행/Pasted image 20231025000257.jpg",
-    "제주도여행/Pasted image 20231025000122.jpg",
     "기타/나이트 메모 정리 요약.md",
     "기타",
     "Projects/AMD NPU",

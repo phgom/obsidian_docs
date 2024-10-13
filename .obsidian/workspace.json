@@ -29,18 +29,9 @@
             "id": "ccc5046193690b78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "285d55765286f61e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md"
               }
             }
           },
@@ -69,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/AMD NPU/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/AMD NPU/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,19 +173,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c6cedf2db582234",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "Projects/AMD NPU/무제 파일.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,20 +193,21 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "285d55765286f61e",
+  "active": "792b91d82a734260",
   "lastOpenFiles": [
-    "제주도여행/비행기 타기.md",
+    "Projects/AMD NPU/무제 파일.md",
+    "무제 파일.md",
     "Excalidraw/AMD NPU 구조분석.excalidraw.md",
+    "Projects/AMD NPU/AMD LINEUP.md",
+    "제주도여행/비행기 타기.md",
     "conflict-files-obsidian-git.md",
     "KakaoTalk_20240926_160248381.jpg",
     "KakaoTalk_20240926_155344702.jpg",
     "Drawing 2023-10-14 23.50.06.excalidraw.md",
-    "Projects/AMD NPU/무제 파일.md",
-    "Projects/AMD NPU/AMD LINEUP.md",
     "45세 교육.md",
     "제주도여행/스크린샷 2023-10-21 오후 4.30.05.png",
     "제주도여행/Pasted image 20231025002548.jpg",

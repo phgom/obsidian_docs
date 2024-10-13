@@ -1,11 +1,5 @@
 [
-  "quick-latex",
   "obsidian-git",
-  "obsidian-pandoc",
-  "obsidian-icon-shortcodes",
-  "obsidian-excalidraw-plugin"
-  "obsidian-icon-shortcodes",
-  "oz-clear-unused-images",
   "obsidian-excalidraw-plugin",
-  "quick-latex"
+  "oz-clear-unused-images"
 ]

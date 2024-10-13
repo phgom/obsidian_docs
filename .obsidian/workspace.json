@@ -4,91 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ba26ab7ad6091a",
+        "id": "b07c46a129767a60",
         "type": "tabs",
         "children": [
           {
-            "id": "1184b51ee1b8c645",
+            "id": "c4998db3e101f0ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-14 23.50.06.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "7877b4b06752e582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "독서노트/독서노트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61b89f70fa37501d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
-            "id": "8c236b3e834616fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
-            "id": "e8bfd016b0f331a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제주도여행/제주도 여행 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee112611a702d8de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제주도여행/일정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0d1293b1a109031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제주도여행/비행기 타기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceb75f0e64c1cb00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/AMD NPU/AMD LINEUP.md",
+                "file": "Docker/commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/AMD NPU/AMD LINEUP.md",
+                "file": "Docker/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/AMD NPU/AMD LINEUP.md",
+                "file": "Docker/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/AMD NPU/AMD LINEUP.md"
+                "file": "Docker/commands.md"
               }
             }
           },
@@ -242,24 +184,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ec1abf92f1e83c8",
+  "active": "7877b4b06752e582",
   "lastOpenFiles": [
-    "제주도여행/제주도 여행 종합.md",
+    "Math/GoldSchmidt Division Algorithm.md",
+    "Math/Basic Operations.md",
+    "제주도여행/21448023-7372-4381-a34b-40710575c520.webp",
+    "제주도여행/스크린샷 2023-10-21 오후 4.30.05.png",
+    "기타",
     "무제 파일.md",
-    "나이트 메모 정리 요약.md",
-    "Pasted image 20231025002548.jpg",
-    "Pasted image 20231025002229.jpg",
-    "Pasted image 20231025002202.jpg",
-    "Pasted image 20231025002033.jpg",
-    "Pasted image 20231025001200.jpg",
-    "Pasted image 20231025000257.jpg",
-    "Pasted image 20231025000122.jpg",
-    "Pasted image 20231024235625.jpg",
-    "Pasted image 20231024235117.jpg",
-    "Pasted image 20231024235054.jpg",
-    "Drawing 2023-10-14 23.50.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-13 14.38.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-14 23.50.06.excalidraw.md",
+    "Excalidraw",
+    "제주도여행/Pasted image 20231025002548.jpg",
+    "제주도여행/Pasted image 20231020141318.png",
+    "제주도여행/Pasted Image 20231015000817_735.png",
+    "제주도여행/Pasted Image 20231015000238_733.png",
+    "제주도여행/Pasted image 20231020141455.png",
     "독서노트/독서노트.md",
     "Projects/AMD NPU/AMD LINEUP.md",
+    "제주도여행/제주도 여행 종합.md",
+    "기타/나이트 메모 정리 요약.md",
+    "제주도여행/Pasted image 20231025002229.jpg",
+    "제주도여행/Pasted image 20231025002202.jpg",
+    "제주도여행/Pasted image 20231025002033.jpg",
     "Projects/AMD NPU",
     "Projects",
     "제주도여행/일정.md",
@@ -273,8 +220,6 @@
     "독서노트/부자아빠 가난한아빠.md",
     "Docker",
     "독서노트/불편한 편의점.md",
-    "Math/GoldSchmidt Division Algorithm.md",
-    "Math/Basic Operations.md",
     "독서노트/밸런스.md",
     "미라클모닝.md",
     "독서노트/미라클 모닝.md",

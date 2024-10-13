@@ -38,25 +38,11 @@
             }
           },
           {
-            "id": "0dbb5e924ee71439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ccc5046193690b78",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2023-10-14 23.50.06.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -85,9 +71,19 @@
             "id": "6685eb927b8167b1",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-10-14 23.50.06.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1d60cbd524ba3118",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "제주도여행/제주도 여행 종합.md",
+                "file": "45세 교육.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제주도여행/제주도 여행 종합.md",
+                "file": "45세 교육.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제주도여행/제주도 여행 종합.md",
+                "file": "45세 교육.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제주도여행/제주도 여행 종합.md"
+                "file": "45세 교육.md"
               }
             }
           },
@@ -235,14 +231,24 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6685eb927b8167b1",
+  "active": "1d60cbd524ba3118",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "제주도여행/제주도 여행 종합.md",
+    "KakaoTalk_20240926_160248381.jpg",
+    "KakaoTalk_20240926_155344702.jpg",
+    "Drawing 2023-10-14 23.50.06.excalidraw.md",
+    "45세 교육.md",
+    "21448023-7372-4381-a34b-40710575c520.webp",
+    "나이트 메모 정리 요약.md",
     "Pasted image 20231025002548.jpg",
+    "Pasted image 20231024232930.jpg",
+    "Pasted image 20231020141802.png",
+    "Pasted Image 20231015000817_735.png",
+    "제주도여행/제주도 여행 종합.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20231025002229.jpg",
     "Pasted image 20231025002202.jpg",
     "Pasted image 20231025002033.jpg",
@@ -250,11 +256,6 @@
     "Pasted image 20231025001200.jpg",
     "제주도여행/제주도 여행 준비.md",
     "제주도여행/일정.md",
-    "Pasted image 20231025000257.jpg",
-    "Pasted image 20231025000122.jpg",
-    "Pasted image 20231024235625.jpg",
-    "Pasted image 20231024235117.jpg",
-    "Pasted image 20231024235054.jpg",
     "제주도여행/비행기 타기.md",
     "독서노트/독서노트.md",
     "제주도여행",
@@ -264,10 +265,7 @@
     "독서노트/미라클 모닝.md",
     "Docker/commands.md",
     "Docker",
-    "Drawing 2023-10-14 23.50.06.excalidraw.md",
-    "무제 파일.md",
     "Clips",
-    "나이트 메모 정리 요약.md",
     "~$트 메모 정리 요약.docx",
     "나이트 메모 정리 요약.docx",
     "무제 폴더",

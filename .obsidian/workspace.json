@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "bc353ebeda185232",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4f414adf27ffa24a",
@@ -89,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md"
+              }
             }
           },
           {
@@ -165,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0102c7ff5e933d8d",
+  "active": "bc353ebeda185232",
   "lastOpenFiles": [
+    "Excalidraw/AMD NPU 구조분석.excalidraw.md",
     "Excalidraw/Drawing 2024-10-13 14.38.23.excalidraw.md",
     "Excalidraw/Drawing 2023-10-14 23.50.06.excalidraw.md",
     "Docker/commands.md",

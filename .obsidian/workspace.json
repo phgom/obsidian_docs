@@ -29,9 +29,11 @@
             "id": "ccc5046193690b78",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md"
+                "file": "Projects/AMD NPU/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -134,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md",
+                "file": "Projects/AMD NPU/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md",
+                "file": "Projects/AMD NPU/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/AMD NPU 구조분석.excalidraw.md"
+                "file": "Projects/AMD NPU/무제 파일.md"
               }
             }
           }
@@ -199,10 +201,11 @@
   },
   "active": "ccc5046193690b78",
   "lastOpenFiles": [
+    "Pasted image 20241014151708.png",
+    "Excalidraw/AMD NPU 구조분석.excalidraw.md",
     "Projects/AMD NPU/무제 파일.md",
     "amd-ryzen-ai-300-competition-for-intel-and-qualcomm-copilot-laptops-2024-07-15-042460.webp",
     "무제 파일.md",
-    "Excalidraw/AMD NPU 구조분석.excalidraw.md",
     "Projects/AMD NPU/AMD LINEUP.md",
     "제주도여행/비행기 타기.md",
     "conflict-files-obsidian-git.md",

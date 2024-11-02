@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "514a9a4443d2d8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/영어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d60cbd524ba3118",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/AMD NPU/무제 파일.md",
+                "file": "Projects/영어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/AMD NPU/무제 파일.md",
+                "file": "Projects/영어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/AMD NPU/무제 파일.md"
+                "file": "Projects/영어.md"
               }
             }
           }
@@ -199,13 +211,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccc5046193690b78",
+  "active": "514a9a4443d2d8bc",
   "lastOpenFiles": [
+    "Projects/AMD NPU/무제 파일.md",
+    "Projects/영어.md",
     "Pasted image 20241014151708.png",
     "Excalidraw/AMD NPU 구조분석.excalidraw.md",
-    "Projects/AMD NPU/무제 파일.md",
     "amd-ryzen-ai-300-competition-for-intel-and-qualcomm-copilot-laptops-2024-07-15-042460.webp",
-    "무제 파일.md",
     "Projects/AMD NPU/AMD LINEUP.md",
     "제주도여행/비행기 타기.md",
     "conflict-files-obsidian-git.md",
@@ -219,7 +231,6 @@
     "제주도여행/Pasted image 20231025002202.jpg",
     "제주도여행/Pasted image 20231025002033.jpg",
     "제주도여행/Pasted image 20231025001200.jpg",
-    "제주도여행/Pasted image 20231025000257.jpg",
     "기타/나이트 메모 정리 요약.md",
     "기타",
     "Projects/AMD NPU",

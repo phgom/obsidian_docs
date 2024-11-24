@@ -4,101 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ae28138b4b9a450a",
+        "id": "b07c46a129767a60",
         "type": "tabs",
         "children": [
           {
-            "id": "abf25645cc41a2b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "a81dee3f6fcc0aac",
+            "id": "c4998db3e101f0ee",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.3.5"
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.3.5"
-            }
-          },
-          {
-            "id": "ccc5046193690b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/AMD NPU/무제 파일.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일"
-            }
-          },
-          {
-            "id": "514a9a4443d2d8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/영어.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "영어"
-            }
-          },
-          {
-            "id": "faab269169aad91f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "1d60cbd524ba3118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "45세 교육.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "45세 교육"
-            }
-          },
-          {
-            "id": "896f0301d3da2bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/AMD NPU/무제 파일.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "Release Notes 1.7.7"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +41,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -137,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -147,11 +68,11 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "a7ce54aee576c85f",
+            "id": "5b006fbd6c305da2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -164,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4f414adf27ffa24a",
@@ -180,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/영어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "영어의 백링크"
+              "title": "Backlinks"
             }
           },
           {
@@ -199,12 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/영어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "영어의 나가는 링크"
+              "title": "Outgoing links"
             }
           },
           {
@@ -225,78 +145,91 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/영어.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "영어 개요"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0102c7ff5e933d8d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "062256dce8034ebf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "faab269169aad91f",
+  "active": "c4998db3e101f0ee",
   "lastOpenFiles": [
-    "Projects/AMD NPU/무제 파일.md",
     "Projects/영어.md",
+    "Projects/AMD NPU/무제 파일.md",
     "Pasted image 20241014151708.png",
-    "Excalidraw/AMD NPU 구조분석.excalidraw.md",
-    "amd-ryzen-ai-300-competition-for-intel-and-qualcomm-copilot-laptops-2024-07-15-042460.webp",
-    "Projects/AMD NPU/AMD LINEUP.md",
-    "제주도여행/비행기 타기.md",
-    "conflict-files-obsidian-git.md",
     "KakaoTalk_20240926_160248381.jpg",
     "KakaoTalk_20240926_155344702.jpg",
     "Drawing 2023-10-14 23.50.06.excalidraw.md",
     "45세 교육.md",
+    "Excalidraw/AMD NPU 구조분석.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-13 14.38.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-14 23.50.06.excalidraw.md",
+    "Docker/commands.md",
+    "Math/GoldSchmidt Division Algorithm.md",
+    "Math/Basic Operations.md",
+    "제주도여행/21448023-7372-4381-a34b-40710575c520.webp",
     "제주도여행/스크린샷 2023-10-21 오후 4.30.05.png",
-    "제주도여행/Pasted image 20231025002548.jpg",
-    "제주도여행/Pasted image 20231025002229.jpg",
-    "제주도여행/Pasted image 20231025002202.jpg",
-    "제주도여행/Pasted image 20231025002033.jpg",
-    "제주도여행/Pasted image 20231025001200.jpg",
-    "기타/나이트 메모 정리 요약.md",
     "기타",
+    "무제 파일.md",
+    "Excalidraw",
+    "제주도여행/Pasted image 20231025002548.jpg",
+    "제주도여행/Pasted image 20231020141318.png",
+    "제주도여행/Pasted Image 20231015000817_735.png",
+    "제주도여행/Pasted Image 20231015000238_733.png",
+    "제주도여행/Pasted image 20231020141455.png",
+    "독서노트/독서노트.md",
+    "Projects/AMD NPU/AMD LINEUP.md",
+    "제주도여행/제주도 여행 종합.md",
+    "기타/나이트 메모 정리 요약.md",
     "Projects/AMD NPU",
     "Projects",
-    "Excalidraw",
-    "나이트 메모 정리 요약.md",
-    "제주도여행/제주도 여행 종합.md",
-    "제주도여행/주소록.md",
-    "제주도여행/제주도 여행 준비.md",
     "제주도여행/일정.md",
-    "독서노트/독서노트.md",
+    "conflict-files-obsidian-git.md",
+    "제주도여행/비행기 타기.md",
+    "제주도여행/제주도 여행 준비.md",
+    "제주도여행/주소록.md",
     "제주도여행",
     "독서노트/저는 이 독서법으로 연봉 3억이 되었습니다.md",
-    "독서노트/불편한 편의점.md",
     "독서노트/부자아빠 가난한아빠.md",
-    "독서노트/미라클 모닝.md",
-    "Docker/commands.md",
     "Docker",
-    "Clips",
-    "~$트 메모 정리 요약.docx",
-    "나이트 메모 정리 요약.docx",
-    "무제 폴더",
-    "Math/Basic Operations.md",
-    "Math/GoldSchmidt Division Algorithm.md",
+    "독서노트/불편한 편의점.md",
     "독서노트/밸런스.md",
-    "독서노트/리더의 생각.md",
-    "독서노트.md"
+    "미라클모닝.md",
+    "독서노트/미라클 모닝.md"
   ]
 }

@@ -5,13 +5,13 @@
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
-  "compress": false,
+  "compress": true,
   "decompressForMDView": false,
-  "onceOffCompressFlagReset": false,
+  "onceOffCompressFlagReset": true,
   "onceOffGPTVersionReset": false,
   "autosave": true,
-  "autosaveIntervalDesktop": 15000,
-  "autosaveIntervalMobile": 10000,
+  "autosaveIntervalDesktop": 30000,
+  "autosaveIntervalMobile": 20000,
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
@@ -105,7 +105,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "1.9.23",
+  "previousRelease": "2.5.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -777,7 +777,5 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
-  "autosaveInterval": 15000,
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
+  "showSplashscreen": true
 }

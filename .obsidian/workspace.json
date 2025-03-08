@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0211933ff600a31",
+        "id": "e63768ed2066f5f5",
         "type": "tabs",
         "children": [
           {
-            "id": "31aab5d40a11ae67",
+            "id": "d0b3188623e85701",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/영어.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "영어"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -66,7 +71,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -164,7 +169,7 @@
               "type": "advanced-tables-toolbar",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ],
@@ -176,32 +181,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "31aab5d40a11ae67",
+  "active": "d0b3188623e85701",
   "lastOpenFiles": [
-    "45세 교육.md",
     "Projects/AMD NPU/무제 파일.md",
     "Projects/AMD NPU/AMD LINEUP.md",
+    "Math/GoldSchmidt Division Algorithm.md",
+    "Math/Basic Operations.md",
+    "기타/45세 교육.md",
+    "기타/나이트 메모 정리 요약.md",
+    "기타/Pasted image 20241014151708.png",
+    "기타/KakaoTalk_20240926_160248381.jpg",
+    "기타/KakaoTalk_20240926_155344702.jpg",
+    "기타/Drawing 2023-10-14 23.50.06.excalidraw.md",
     "Projects/영어.md",
-    "Pasted image 20241014151708.png",
-    "KakaoTalk_20240926_160248381.jpg",
-    "KakaoTalk_20240926_155344702.jpg",
-    "Drawing 2023-10-14 23.50.06.excalidraw.md",
     "Excalidraw/AMD NPU 구조분석.excalidraw.md",
     "Excalidraw/Drawing 2024-10-13 14.38.23.excalidraw.md",
     "Excalidraw/Drawing 2023-10-14 23.50.06.excalidraw.md",
     "Docker/commands.md",
-    "Math/GoldSchmidt Division Algorithm.md",
-    "Math/Basic Operations.md",
     "제주도여행/21448023-7372-4381-a34b-40710575c520.webp",
     "제주도여행/스크린샷 2023-10-21 오후 4.30.05.png",
     "기타",
@@ -214,7 +221,6 @@
     "제주도여행/Pasted image 20231020141455.png",
     "독서노트/독서노트.md",
     "제주도여행/제주도 여행 종합.md",
-    "기타/나이트 메모 정리 요약.md",
     "Projects/AMD NPU",
     "Projects",
     "제주도여행/일정.md",
@@ -228,7 +234,6 @@
     "Docker",
     "독서노트/불편한 편의점.md",
     "독서노트/밸런스.md",
-    "미라클모닝.md",
-    "독서노트/미라클 모닝.md"
+    "미라클모닝.md"
   ]
 }

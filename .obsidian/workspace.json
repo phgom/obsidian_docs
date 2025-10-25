@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "영어"
             }
+          },
+          {
+            "id": "a110603f3768b5d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +83,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -168,8 +181,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -181,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -191,7 +205,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0b3188623e85701",
+  "active": "a110603f3768b5d5",
   "lastOpenFiles": [
     "Projects/AMD NPU/무제 파일.md",
     "Projects/AMD NPU/AMD LINEUP.md",
